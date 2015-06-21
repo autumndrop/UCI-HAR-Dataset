@@ -13,5 +13,5 @@ There are three files in the repository:
 'README.md' gives a general desciption what is done.
 
 Instruction about how to use the files:
-1. Download the data for the project from the link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+1. Download the data for the project from the link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Extract the data and then follow the 'run_analysis.R' to do the analysis
